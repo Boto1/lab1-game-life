@@ -1,0 +1,12 @@
+{
+  "name": "lab1-game-life",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Boto1/lab1-game-life.git",
+  "license": "MIT",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "lodash": "^4.17.20"
+  },
+  "type": "module"
+}
